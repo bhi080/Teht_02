@@ -1,0 +1,11 @@
+.topNavRight {
+position:fixed;
+left: 95%;
+}
+
+body{
+    background-image: url("https://i0.wp.com/www.perille.fi/blog/wp-content/uploads/2020/10/perille_blogi_tuurin_kylakauppa-5.png?w=900&ssl=1");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
